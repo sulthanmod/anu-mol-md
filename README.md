@@ -1,8 +1,8 @@
 
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩4ꫂ<br></h1>
+<h1 align="center">ꪶ𝗔𝗻𝘂 𝗠𝗼𝗹 𝗕𝗼𝘁-𝗠𝗗 𝗩4ꫂ<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/ocU6b0q.mp4" alt="animated" width="540" height="280" />
+<img src="https://i.imgur.com/ocU6b0q.jpeg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
